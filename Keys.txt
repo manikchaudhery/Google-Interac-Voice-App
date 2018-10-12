@@ -1,0 +1,7 @@
+Secret key: Q_Si_uvUX0Db3gKCMcRIbMIYB0u2llOkff1k0VISgEo
+
+-----------------------------------------------------------
+
+current access token: Bearer 46804544-c112-4614-8222-1658ab78e11f
+thirdPartyAccessId: CA1TAtqqsdGagfAM
+apiRegistrationID: CA1ARsACPZwNSGxr

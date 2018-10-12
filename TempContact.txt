@@ -1,0 +1,12 @@
+Temporary contact info:
+
+name: 'J Nazarenko'
+contact id: CA7YfcMyZY3W
+contact hash: d4e87e47f6c1334ebf5f1f6de1da9988
+
+-------------------------------------------------
+
+name: 'Antonio Kim'
+contact id: CA32B29eg8YN
+contact hash: 02c316ec588fa9482e4f85477a2ab0ee
+(this contact is linked to Manik's work email: manik@livelihoodproject.org)
